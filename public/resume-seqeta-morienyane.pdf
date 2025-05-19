@@ -1,0 +1,6 @@
+This is a placeholder for the actual PDF resume file.
+
+To use a real resume:
+1. Create your resume as a PDF file
+2. Name it "resume-seqeta-morienyane.pdf" (or update the filename in the ResumeDownload component)
+3. Place it in the "public" folder of your Next.js project
